@@ -152,16 +152,8 @@ const PROJECTS = [
     tags: ["Python", "AI", "Chatbot", "FastAPI"],
     link: "https://github.com/zahidSkywalker",
   },
-  {
+    {
     num: "02",
-    title: "Retired-Project AI Art Generator",
-    description:
-      "An AI image generation platform with modern frontend and backend architecture, supporting multiple model integrations and real-time generation.",
-    tags: ["React", "Python", "AI", "API"],
-    link: "https://github.com/zahidSkywalker",
-  },
-  {
-    num: "03",
     title: "Pay S",
     description:
       "A merchant-focused payment processor simulation platform with dashboards, API authentication, transaction management, and analytics.",
@@ -169,7 +161,7 @@ const PROJECTS = [
     link: "https://github.com/zahidSkywalker",
   },
   {
-    num: "04",
+    num: "03",
     title: "Sky Voice",
     description:
       "A browser-based text-to-speech platform powered by modern AI speech technologies with multiple voice options and real-time audio playback.",
@@ -177,7 +169,7 @@ const PROJECTS = [
     link: "https://github.com/zahidSkywalker",
   },
   {
-    num: "05",
+    num: "04",
     title: "Ethereal Ascension",
     description:
       "A spiritual learning platform with courses, user management, payments, and digital content delivery with a polished user experience.",
@@ -185,7 +177,7 @@ const PROJECTS = [
     link: "https://github.com/zahidSkywalker",
   },
   {
-    num: "06",
+    num: "05",
     title: "Fashion Elegant",
     description:
       "A modern e-commerce platform designed for apparel and fashion businesses with clean product presentation and cart management.",
